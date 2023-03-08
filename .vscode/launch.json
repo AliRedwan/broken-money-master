@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://parseInt(food)",
+            "request": "launch",
+            "url": "http://parseInt(food)"
+        }
+    ]
+}
